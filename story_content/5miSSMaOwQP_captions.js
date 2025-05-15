@@ -1,0 +1,1 @@
+window.globalLoadJsAsset('story_content/5miSSMaOwQP_captions.js', {"captions":[{"langCode":"en","data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.99.34516.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:01.829%0D%0AMatch%20the%20animals%20with%20their%20color.%0D%0A%0D%0A"}]})
